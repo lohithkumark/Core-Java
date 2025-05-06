@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="/Users/lohithkumar/Core-Java/Lolly-pop">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="/Users/lohithkumar/Downloads/apache-tomcat-9.0.104/lib/servlet-api.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/servlet-api.jar"/>
+  </Resources>
+</Context>

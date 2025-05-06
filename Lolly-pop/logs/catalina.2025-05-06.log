@@ -1,0 +1,330 @@
+06-May-2025 12:01:03.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:01:03.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:01:03.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:01:03.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:01:03.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 12:01:03.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 12:01:03.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 12:01:03.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49167
+06-May-2025 12:01:03.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 12:01:03.108 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 12:01:03.315 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:01:03.335 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [358] milliseconds
+06-May-2025 12:01:03.358 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 12:01:03.358 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 12:01:03.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 12:01:03.393 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 12:01:03.504 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 12:01:03.518 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [155] ms
+06-May-2025 12:01:03.520 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:01:03.534 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [199] milliseconds
+06-May-2025 12:01:20.610 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:01:20.613 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 12:01:20.622 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:01:20.624 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:01:21.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:01:21.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:01:21.896 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:01:21.896 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:01:21.896 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 12:01:21.896 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 12:01:21.896 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 12:01:21.896 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49176
+06-May-2025 12:01:21.896 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 12:01:21.897 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 12:01:22.091 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:01:22.116 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [313] milliseconds
+06-May-2025 12:01:22.138 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 12:01:22.138 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 12:01:22.143 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 12:01:22.168 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 12:01:22.282 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 12:01:22.295 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [151] ms
+06-May-2025 12:01:22.297 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:01:22.308 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [191] milliseconds
+06-May-2025 12:03:36.774 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:03:36.776 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 12:03:36.780 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:03:36.783 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:03:37.775 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 12:03:37.776 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 12:03:37.776 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 12:03:37.776 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 12:03:37.776 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 12:03:37.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 12:03:37.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 12:03:37.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 12:03:37.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 12:03:37.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:03:37.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:03:37.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:03:37.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:03:37.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 12:03:37.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 12:03:37.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 12:03:37.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49188
+06-May-2025 12:03:37.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 12:03:37.782 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 12:03:37.976 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:03:38.001 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [322] milliseconds
+06-May-2025 12:03:38.019 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 12:03:38.019 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 12:03:38.024 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 12:03:38.053 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 12:03:38.160 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 12:03:38.173 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [148] ms
+06-May-2025 12:03:38.174 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:03:38.186 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [184] milliseconds
+06-May-2025 12:07:30.452 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:07:30.455 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 12:07:30.461 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:07:30.463 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:07:31.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:07:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:07:31.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:07:31.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:07:31.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 12:07:31.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 12:07:31.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 12:07:31.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49202
+06-May-2025 12:07:31.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 12:07:31.950 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 12:07:32.143 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:07:32.170 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [315] milliseconds
+06-May-2025 12:07:32.191 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 12:07:32.191 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 12:07:32.195 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 12:07:32.219 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 12:07:32.327 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 12:07:32.338 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [143] ms
+06-May-2025 12:07:32.339 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:07:32.350 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [179] milliseconds
+06-May-2025 12:08:30.831 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:08:30.834 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 12:08:30.840 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:08:30.842 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:08:32.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:08:32.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:08:32.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:08:32.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:08:32.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 12:08:32.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 12:08:32.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 12:08:32.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49213
+06-May-2025 12:08:32.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 12:08:32.286 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 12:08:32.477 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:08:32.499 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [308] milliseconds
+06-May-2025 12:08:32.519 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 12:08:32.519 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 12:08:32.524 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 12:08:32.546 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 12:08:32.658 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 12:08:32.670 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [146] ms
+06-May-2025 12:08:32.677 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:08:32.683 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [184] milliseconds
+06-May-2025 12:09:04.966 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:09:04.969 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 12:09:04.976 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:09:04.979 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:09:06.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 12:09:06.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 12:09:06.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 12:09:06.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 12:09:06.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 12:09:06.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 12:09:06.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 12:09:06.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 12:09:06.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 12:09:06.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:09:06.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:09:06.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:09:06.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:09:06.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 12:09:06.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 12:09:06.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 12:09:06.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49221
+06-May-2025 12:09:06.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 12:09:06.408 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 12:09:06.601 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:09:06.623 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [308] milliseconds
+06-May-2025 12:09:06.648 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 12:09:06.648 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 12:09:06.653 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 12:09:06.676 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 12:09:06.790 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 12:09:06.803 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [150] ms
+06-May-2025 12:09:06.805 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:09:06.816 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [192] milliseconds
+06-May-2025 12:12:12.235 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:12:12.238 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 12:12:12.245 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:12:12.248 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:12:12.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:12:12.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:12:13.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:12:13.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:12:13.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 12:12:13.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 12:12:13.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 12:12:13.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49227
+06-May-2025 12:12:13.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 12:12:13.003 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 12:12:13.206 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:12:13.227 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [325] milliseconds
+06-May-2025 12:12:13.249 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 12:12:13.249 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 12:12:13.254 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 12:12:13.279 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 12:12:13.385 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 12:12:13.396 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [142] ms
+06-May-2025 12:12:13.402 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:12:13.409 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [181] milliseconds
+06-May-2025 12:14:39.920 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:14:39.922 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 12:14:39.929 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:14:39.932 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:14:41.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 12:14:41.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 12:14:41.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 12:14:41.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 12:14:41.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 12:14:41.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 12:14:41.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 12:14:41.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 12:14:41.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 12:14:41.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:14:41.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:14:41.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 12:14:41.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 12:14:41.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 12:14:41.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 12:14:41.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 12:14:41.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49236
+06-May-2025 12:14:41.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 12:14:41.407 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 12:14:41.596 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:14:41.622 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [312] milliseconds
+06-May-2025 12:14:41.641 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 12:14:41.641 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 12:14:41.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 12:14:41.668 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 12:14:41.776 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 12:14:41.788 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [142] ms
+06-May-2025 12:14:41.794 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 12:14:41.801 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [178] milliseconds
+06-May-2025 15:46:51.015 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:46:51.020 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 15:46:51.029 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:46:51.033 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:46:51.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 15:46:51.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 15:46:51.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 15:46:51.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 15:46:51.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 15:46:51.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 15:46:51.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 15:46:51.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49248
+06-May-2025 15:46:51.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 15:46:51.936 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 15:46:52.161 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:46:52.185 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [346] milliseconds
+06-May-2025 15:46:52.209 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 15:46:52.209 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 15:46:52.214 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 15:46:52.242 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 15:46:52.337 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 15:46:52.349 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [135] ms
+06-May-2025 15:46:52.351 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:46:52.362 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [176] milliseconds
+06-May-2025 15:47:16.338 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:47:16.342 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 15:47:16.349 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:47:16.352 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:47:19.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.104
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 4 2025 12:32:55 UTC
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.104.0
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/lohithkumar/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-b06
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 15:47:19.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 15:47:19.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lohithkumar/Downloads/apache-tomcat-9.0.104
+06-May-2025 15:47:19.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop
+06-May-2025 15:47:19.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/temp
+06-May-2025 15:47:19.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/logging.properties
+06-May-2025 15:47:19.529 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-May-2025 15:47:19.529 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49254
+06-May-2025 15:47:19.529 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+06-May-2025 15:47:19.530 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/lohithkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-May-2025 15:47:19.725 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:47:19.754 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [319] milliseconds
+06-May-2025 15:47:19.775 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-May-2025 15:47:19.775 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+06-May-2025 15:47:19.779 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml]
+06-May-2025 15:47:19.802 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [/Users/lohithkumar/Core-Java/Lolly-pop/out/production/Lolly-pop] which is part of the web application [/How is the lolly-pop]
+06-May-2025 15:47:19.905 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-May-2025 15:47:19.917 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/lohithkumar/.SmartTomcat/Lolly-pop/Lolly-pop/conf/Catalina/localhost/How is the lolly-pop.xml] has finished in [138] ms
+06-May-2025 15:47:19.919 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:47:19.929 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [175] milliseconds
+06-May-2025 15:50:51.587 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:50:51.590 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2025 15:50:51.597 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2025 15:50:51.599 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
